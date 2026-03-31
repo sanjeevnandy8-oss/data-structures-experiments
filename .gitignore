@@ -1,55 +1,29 @@
-# Prerequisites
-*.d
-
-# Object files
+experiments/1_functions_arrays/1_input_max_min
+experiments/1_functions_arrays/2_insert_display
+experiments/1_functions_arrays/3_delete_display
+experiments/2_matrix_sparse/1_matrix_multiplication
+experiments/2_matrix_sparse/2_matrix_transpose
+experiments/2_matrix_sparse/3_sparse_matrix
+experiments/3_pointers_dma/1_dynamic_max
+experiments/3_pointers_dma/2_student_struct
+experiments/3_pointers_dma/3_products_dma
+experiments/4_stacks_queues/1_stack
+experiments/4_stacks_queues/2_linear_queue
+experiments/4_stacks_queues/3_circular_queue
+experiments/5_searching_sorting/1_binary_search
+experiments/5_searching_sorting/2_selection_sort
+experiments/5_searching_sorting/3_bubble_sort_string
+experiments/6_sorting_merging/1_merge_sorted_arrays
+experiments/6_sorting_merging/2_insertion_sort
+experiments/6_sorting_merging/3_quick_sort
+experiments/7_singly_linked_list/1_linked_list_beginning
+experiments/7_singly_linked_list/2_linked_list_end
+experiments/7_singly_linked_list/3_linked_list_location
+experiments/8_linked_stack_queue/1_linked_stack
+experiments/8_linked_stack_queue/2_linked_queue
+experiments/9_doubly_linked_list/1_doubly_beginning
+experiments/9_doubly_linked_list/2_doubly_end
+experiments/10_advanced_linked_list/1_cricket_players
+experiments/10_advanced_linked_list/2_bank_accounts
 *.o
-*.ko
-*.obj
-*.elf
-
-# Linker output
-*.ilk
-*.map
-*.exp
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
-
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
-
-# debug information files
-*.dwo
+*~
